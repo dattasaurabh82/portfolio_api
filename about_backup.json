@@ -1,0 +1,108 @@
+{
+	"about":{
+		"text": "\"About me\" is complex, evolving and ever changing. So I prefer not to write about it. If you are here, you probably know the nature of my work. Most of my works can be considered multimedia:from hardwares to networks, to web to gaming engines. medium wise not fixed although my works are based on my reflections on human behavior and the critique on the states of now on a multiverse.  I'm part of automato.farm at night and working at Volkswagen Future Center Asia by day. Previously I was working at frog Design",
+		"exhibitions": [{
+			"date": 2016,
+			"project_name": "Overscopia",
+			"exhibition_name": "Rencontres Photographie Arles, France",
+			"links":{
+				"project_link": "",
+				"exhibiton_link":"https://www.rencontres-arles.com/?VP3=CMS3&VF=ARLAR1_460_VForm&FRM=Frame:ARLAR1_463"
+			},
+			"collaborator": {
+				"name": "Matthieu Cherubini",
+				"link": "http://mchrbn.net/"
+			}
+		}, 
+		{
+			"date": 2017,
+			"project_name": "Politics of Power",
+			"exhibition_name": "Hello Robot <-> Vitra Design Museum, Vienna, Austria",
+			"links":{
+				"project_link": "",
+				"exhibiton_link":"https://www.design-museum.de/en/exhibitions/detailpages/hello-robot-design-between-human-and-machine.html"
+			},
+			"collaborator": {
+				"name": "automato.farm",
+				"link": "http://automato.farm/"
+			}
+		},
+		{
+			"date": 2018,
+			"project_name": "Politics of Power",
+			"exhibition_name": " Common Good for Museum of Applied Arts and Sciences, Sydney, Australia",
+			"links":{
+				"project_link": "",
+				"exhibiton_link":"https://maas.museum/event/common-good/"
+			},
+			"collaborator": {
+				"name": "automato.farm",
+				"link": "http://automato.farm/"
+			}
+		}],
+		"talks":[
+			{
+				"Year": 2016, 
+				"About": "Unknown history of the internet", 
+				"Name": "Thingscon Shanghai 2016", 
+				"Country": "China"
+			}, 
+			{
+				"Year": 2017, 
+				"About": "Designing for Intelligence and Bot Panel", 
+				"Name": "Semipermanent Sydney 2017", 
+				"Country": "Australia"
+			},
+			{
+				"Year": 2017, 
+				"About": "One provocative future of transportation", 
+				"Name": "UXPoland 2017", 
+				"Country": "Poland"
+			}
+		],
+		"teachings": [
+			"New York University, Shanghai, China",
+			"Central Academy of Fine Arts, Beijing, China",
+			"Central Academy of Arts, Hangzhou, China"],
+		"contact": {
+			"mail": "hi@dattasaurabh.com",
+			"mobile": "+86-15210825231",
+			"wechat:": "dattasaurabh`",
+			"twitter": "@dattasaurabh82",
+			"github": "www.github.com/dattasaurabh82",
+			"public_key": [
+				"-----BEGIN PGP PUBLIC KEY BLOCK-----",
+				"Version: OpenPGP.js v2.5.12",
+				"Comment: https://openpgpjs.org",
+				"xsBNBFoChe0BCACrC5cgCnqf5ey0Xd6GuNerSnYQkAG42ZPH4JOmu12FLmIE",
+				"t6ezzbCQrPrwTumt/g+I3qLG1pO9h26PaB/RgM1N1nhFObL8WFs9JzbKueFm",
+				"xUmpWWQ7nOdiIqfA509YhiAhVe+j0DCZLmofahvweEznyHWS3HPftNHUrFi/",
+				"bw0rdqkdzTavPH93E5Cya3DiTRiley276CCdpEUHYcmFGusvAKh9CB6iOLwY",
+				"rwL3kHNJKhT6ZfLXPz5CFzEuhcuzdF+l+b1f07ji2N0uHjo+BUS3BRVPybqc",
+				"CC5fEJbK+rYRtIK7d+JcoesGtDlcd0h3AUqSJjSAzPQjQdibp9d2TDoHABEB",
+				"AAHNKWhpQGRhdHRhc2F1cmFiaC5jb20gPGhpQGRhdHRhc2F1cmFiaC5jb20+",
+				"wsB1BBABCAApBQJaAoXuBgsJBwgDAgkQZSBkOEzMCQIEFQgKAgMWAgECGQEC",
+				"GwMCHgEAAAvtB/46kELJ4WA9+gUzLcpXoJMTKW6jdi6yXv/UsP75/DtibD7W",
+				"dKHiEMKSKTYim14UwBst4he00R2CQ9N4A/RrMkwWsxpOZF8CULF+Y/v770ju",
+				"FyzkQTSBdvApLrizMMUAYVPCW4OgcPK1hmubz6Mb3SW982pNgZFycuuWQhVK",
+				"JHN83Q8RPpLMMsr/rrrtteY3AsPedkKbAHe9Xtc9InVIydEF5onFAtvGSCkc",
+				"CdZsVCoWymH2/ur5yes6utpCE5+jUC+CmFQadrr1en+AAm1dQA7XNFgpwgjv",
+				"d3WG7j0G0DH4F6uSdIBDPrTxAwlXnXo+x6d/5ybL5Lfu0mGKRxy2ScckzsBN",
+				"BFoChe0BCAC9N9aF2iCb2g1V6RlrukIAbRaatSQSZ9IDK+TcOzeUnDIX5lEI",
+				"MmE22lAqbviQBh2S2jlzK4JOJ41to/OP5cvsT/CsX8S85BrR69n5NB2PK9gM",
+				"HaN5gpr/+wPctMPcod3DJw8dJgDwkDnaY75HAX/eZHmpFvy1g4mFsfeQQPAL",
+				"3pJ4R62rMSqT3cvvuF5yEVMwU6OoKb/kBt/KaQb8d/4HGSU6fZiJZ51EhiXG",
+				"u1L9WXocOfq4CtXW+YehLT0n3k7e4PJbkPACmaPUjYdO2BsZstH9q5vcg6Xw",
+				"K2oTPKkQSdPCxvUHfQiIFTJsD38O+qJduO5+0yN5WazXoBupAXJ1ABEBAAHC",
+				"wF8EGAEIABMFAloChe8JEGUgZDhMzAkCAhsMAAB9Hwf+MaIh5ZET1gwNuiEY",
+				"f06/aK3BSRx8w9bu3rJivhlJlZLWKT5iZ2FXq5VT9ke1qMefLAahen7EeG5D",
+				"8BRYeZT7dke3gPm5oHTPCXlu6zhaKpQYf81OffFeTmzY2e3TyJEbXOJrrqeC",
+				"9mfkSlIYcf7I/X25HsmEEx6LQMoJhIdqcJ5QKrwUqR5/FBNOdIxj/5Nr9VRI",
+				"hZTEvKMWhWWgdcg5QVEZ2VXK4RVwAPb9u5OO6EhYuION3qr0RsidSeBOxk3a",
+				"j/58sy/8b8UVXJ53tvZPFrj8YN2d3R207RVV1JR6PL2J+N2i6XsxJyJPCbCi",
+				"NOVZF5dVjH5C7IWi2ZRjRA4DAQ===0DeX",
+				"-----END PGP PUBLIC KEY BLOCK-----"
+			]
+		}
+	}
+}

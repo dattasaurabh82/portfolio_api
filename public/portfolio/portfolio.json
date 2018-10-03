@@ -1,0 +1,9 @@
+{
+    "about": "/about.json", 
+    "blogs": "/blogs.json", 
+    "imgs_from_galleries": "/imgs_from_galleries.json", 
+    "portfolio": "/portfolio.json", 
+    "resume": "/resume.json", 
+    "waste_of_time": "/waste_of_time.json", 
+    "works": "/works.json"
+}

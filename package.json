@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my portfolio as an api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "express",
+    "portfolio"
+  ],
+  "author": "Saurabh Datta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

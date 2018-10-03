@@ -1,0 +1,81 @@
+{
+    "contact": {
+        "github": "www.github.com/please_fill_in", 
+        "mail": "please fill in", 
+        "mastoden:": "please fill in", 
+        "mobile": "please fill in", 
+        "public_key": [
+            "please fill in"
+        ], 
+        "twitter": "@please_fill_in", 
+        "wechat:": "please fill in", 
+        "whatsapp:": "please fill in"
+    }, 
+    "exhibitions": [
+        {
+            "collaborator": {
+                "link": "please fill in", 
+                "name": "please fill in"
+            }, 
+            "date": 2018, 
+            "exhibition_name": "please fill in", 
+            "links": {
+                "exhibiton_link": "please fill in", 
+                "project_link": "please fill in"
+            }, 
+            "project_name": " please fill in"
+        }, 
+        {
+            "collaborator": {
+                "link": "please fill in", 
+                "name": "please fill in"
+            }, 
+            "date": 2018, 
+            "exhibition_name": "please fill in", 
+            "links": {
+                "exhibiton_link": "please fill in", 
+                "project_link": "please fill in"
+            }, 
+            "project_name": " please fill in"
+        }, 
+        {
+            "collaborator": {
+                "link": "please fill in", 
+                "name": "please fill in"
+            }, 
+            "date": 2018, 
+            "exhibition_name": "please fill in", 
+            "links": {
+                "exhibiton_link": "please fill in", 
+                "project_link": "please fill in"
+            }, 
+            "project_name": " please fill in"
+        }
+    ], 
+    "talks": [
+        {
+            "About": "please fill in", 
+            "Country": "please fill in", 
+            "Name": "please fill in", 
+            "Year": 2018
+        }, 
+        {
+            "About": "please fill in", 
+            "Country": "please fill in", 
+            "Name": "please fill in", 
+            "Year": 2018
+        }, 
+        {
+            "About": "please fill in", 
+            "Country": "please fill in", 
+            "Name": "please fill in", 
+            "Year": 2018
+        }
+    ], 
+    "teachings": [
+        "University/conference, city, country", 
+        "University/conference, city, country", 
+        "University/conference, city, country"
+    ], 
+    "text": "hjfgdhjfg"
+}

@@ -1,0 +1,11 @@
+{
+	"portfolio":{
+		"about": "/about.json",
+		"resume": "/resume.pdf",
+		"works": "/works.json",
+		"sketches": "/sketches.json",
+		"blogs": "/blogs.json",
+		"waste_of_time": "/waste_of_time.json",
+		"imgs_from_galleries": "/imgs_from_galleries.json"
+	}
+}
